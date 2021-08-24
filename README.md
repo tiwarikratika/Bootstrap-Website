@@ -1,3 +1,3 @@
 # Bootstrap-Website
 
-A website template which is made using <b>BOOTSTRAP</b>
+A website template made using <b>BOOTSTRAP</b>
